@@ -1,0 +1,1 @@
+Podle ONTOUml dokumentace pro RelRig platí, že entita spojená mediation vazbou znamená, že je externě závislá. Tedy aby ji uživatel mohl instancovat, tak musí být instancována s další entitou. V našem modelu má smysl Destinaci uchovávat pouze v případě, že byla startem nebo cílem nějaké mise. Zde je tedy RelRig oprávněný. 

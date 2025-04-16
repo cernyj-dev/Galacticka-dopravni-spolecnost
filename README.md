@@ -67,3 +67,6 @@ This project was developed as part of a semester course in information systems m
 ## License
 
 This project is intended for educational and academic use only.
+
+> **Disclaimer:** This semestral work, including diagrams, descriptions, and documentation, is written in **Czech**.
+
